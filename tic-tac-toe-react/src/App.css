@@ -1,0 +1,18 @@
+.square {
+  width: 100px;
+  height: 100px;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 100px;
+  cursor: pointer;
+}
+
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+  height: 300px;
+  margin: 20px auto;
+  border: 2px solid #333;
+}
