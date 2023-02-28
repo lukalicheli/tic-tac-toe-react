@@ -16,3 +16,11 @@
   margin: 20px auto;
   border: 2px solid #333;
 }
+
+.square.X {
+  color: #f44336;
+}
+
+.square.O {
+  color: #2196f3;
+}
